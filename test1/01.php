@@ -16,6 +16,14 @@ $arr=$dao->fetchAll($sql);
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
+<style>
+    table{
+        width:400px;
+        background-color: red;
+        border:1px solid black;
+        margin:0 auto;
+    }
+</style>
 <body>
 <table>
     <tr>
